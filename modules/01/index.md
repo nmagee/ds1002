@@ -1,10 +1,9 @@
 ---
-title: Home
-layout: home
-nav_order: 1
+title: Module 1
+layout: default
 ---
 
-## DS1002 Programming for Data Science
+## Module 1
 
 alskdfj lwekrj dslfkjs dlkrwje lfkdsj jlrwkerj lsdfkjsdlfk wjelrk sdjflskd fj
 
