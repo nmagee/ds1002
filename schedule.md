@@ -19,7 +19,7 @@ nav_order: 2
     <tr>
       <th style="text-align:left;">Week</th>
       <th style="text-align:left;width:10%;">Date</th>
-      <th style="text-align:left;">Topics(s)</th>
+      <th style="text-align:left;">Topics</th>
       <th style="text-align:left;width:40%;">Read / Watch / Do</th>
     </tr>
   </thead>
@@ -42,21 +42,30 @@ nav_order: 2
       </td>
     </tr>
     <tr>
-      <td>02</td>
+      <td></td>
       <td>8/25</td>
-      <td>Abstraction & Virtualization</td>
+      <td>Getting Set Up</td>
       <td>
         <a href="https://www.youtube.com/watch?v=FZR0rG3HKIk" target="_new">Virtualization</a> <br />
         <a href="https://en.wikipedia.org/wiki/Hypervisor" target="_new">Hypervisors</a> <br />
       </td>
     </tr>
     <tr>
-      <td>03</td>
-      <td>8/30</td>
-      <td>Managed Services & Cost Management</td>
+      <td>02</td>
+      <td>8/28</td>
+      <td>Git: Source Control Management</td>
       <td>
         <a href="https://aws.amazon.com/managed-services/">AWS Managed Services</a><br />
         <a href="https://l.uvarc.io/cost-lab"><b>Lab 0: Cost Control Lab</b></a> <br />
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>8/30</td>
+      <td>GitHub: Collaborative Git</td>
+      <td>
+        <a href="https://aws.amazon.com/managed-services/">AWS Managed Services</a><br />
+
       </td>
     </tr>
   </tbody>
