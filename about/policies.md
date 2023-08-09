@@ -3,10 +3,11 @@ title: Policies
 layout: default
 parent: About
 nav_order: 4
-has_toc: true
 ---
 
 # Policies
+
+{:toc}
 
 ## University of Virginia Honor System
 

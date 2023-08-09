@@ -1,8 +1,10 @@
 title: DS1002
-description: Programming for Data Science.
+description: Programming for Data Science
 theme: just-the-docs
 
 url: https://nmagee.github.io/ds1002
 
-aux_links:
-  Template Repository: https://github.com/nmagee/ds1002
+nav_external_links:
+  - title: Canvas
+    url: https://canvas.its.virginia.edu/courses/78571
+
