@@ -27,7 +27,7 @@ For students somewhat new to programming of any kind, this should be a gentle in
 
 - Name: Neal Magee
 - Email: [nem2p@virginia.edu](mailto:nem2p@virginia.edu)
-- Office: 163a Elson
+- Office: Elson 163A
 - Office Hours: Wednesdays 1:00 PM to 3:00 PM. Other times by appointment.
 
 ### Teaching Assistant

@@ -7,7 +7,7 @@ nav_order: 2
 # Schedule
 
 <style>
-  td a { color:white;}
+  /* td a { color:white;} */
   .noclass { font-weight:bold;color:#5fff00;}
 </style>
 
@@ -64,8 +64,7 @@ nav_order: 2
     <tr>
       <td>03</td>
       <td>9/04</td>
-      <td class="noclass">No Class - Labor Day</td>
-      <td></td>
+      <td class="noclass" colspan=2>No Class - Labor Day</td>
     </tr>
     <tr>
       <td></td>
