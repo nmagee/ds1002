@@ -2,7 +2,7 @@
 title: Objectives
 layout: default
 parent: About
-nav_order: 1
+nav_order: 2
 ---
 
 # Objectives
