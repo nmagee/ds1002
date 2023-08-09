@@ -29,8 +29,7 @@ nav_order: 2
       <td> </td>
       <td>Student Survey</td>
       <td>
-        <a href="https://l.uvarc.io/f22-survey" target="_new"><img src="../images/writing.png" /> <b>Take the 
-Survey</b></a>
+        <a href="https://l.uvarc.io/f22-survey" target="_new"><img src="/images/writing.png" /> <b>Take the Survey</b></a>
       </td>
     </tr>
     <tr>
