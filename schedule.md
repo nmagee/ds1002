@@ -17,10 +17,10 @@ nav_order: 2
 <table>
   <thead>
     <tr>
-      <th>#</th>
-      <th style="width:10%;">Date</th>
-      <th>Topics(s)</th>
-      <th style="width:40%;">Read / Watch / Do</th>
+      <th style="text-align:left;">Week</th>
+      <th style="text-align:left;width:10%;">Date</th>
+      <th style="text-align:left;">Topics(s)</th>
+      <th style="text-align:left;width:40%;">Read / Watch / Do</th>
     </tr>
   </thead>
   <tbody>
@@ -38,10 +38,8 @@ Survey</b></a>
       <td>8/23</td>
       <td>Course introduction, Concepts & Requirements</td>
       <td>
-        <img src="../images/video.png" /> <a href="https://www.youtube.com/watch?v=94PO2-TL4Vs" target="_new">A 
-Visit to the "Cloud"</a> <br />
-        <img src="../images/book.png" /> <a href="https://l.uvarc.io/yff" target="_new">Cloud Foundations</a> <br 
-/>
+        <a href="https://www.youtube.com/watch?v=94PO2-TL4Vs" target="_new">A Visit to the "Cloud"</a> <br />
+        <a href="https://l.uvarc.io/yff" target="_new">Cloud Foundations</a> <br />
       </td>
     </tr>
     <tr>
@@ -49,10 +47,8 @@ Visit to the "Cloud"</a> <br />
       <td>8/25</td>
       <td>Abstraction & Virtualization</td>
       <td>
-        <img src="../images/video.png" /> <a href="https://www.youtube.com/watch?v=FZR0rG3HKIk" 
-target="_new">Virtualization</a> <br />
-        <img src="../images/book.png" /> <a href="https://en.wikipedia.org/wiki/Hypervisor" 
-target="_new">Hypervisors</a> <br />
+        <a href="https://www.youtube.com/watch?v=FZR0rG3HKIk" target="_new">Virtualization</a> <br />
+        <a href="https://en.wikipedia.org/wiki/Hypervisor" target="_new">Hypervisors</a> <br />
       </td>
     </tr>
     <tr>
@@ -60,10 +56,8 @@ target="_new">Hypervisors</a> <br />
       <td>8/30</td>
       <td>Managed Services & Cost Management</td>
       <td>
-        <img src="../images/book.png" /> <a href="https://aws.amazon.com/managed-services/">AWS Managed 
-Services</a><br />
-        <img src="../images/lab.png" /> <a href="https://l.uvarc.io/cost-lab"><b>Lab 0: Cost Control Lab</b></a> 
-(In class)<br />
+        <a href="https://aws.amazon.com/managed-services/">AWS Managed Services</a><br />
+        <a href="https://l.uvarc.io/cost-lab"><b>Lab 0: Cost Control Lab</b></a> <br />
       </td>
     </tr>
   </tbody>
