@@ -8,6 +8,8 @@ url: https://nmagee.github.io/ds1002/
 nav_external_links:
   - title: Canvas for DS1002
     url: https://canvas.its.virginia.edu/courses/78571
+  - title: Google Colab
+    url: https://colab.research.google.com/
 
 callouts:
   warning:
