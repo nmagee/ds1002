@@ -27,8 +27,8 @@ nav_order: 2
       <td>8/23</td>
       <td>Course introduction, Concepts & Requirements</td>
       <td>
-        <a href="https://www.youtube.com/watch?v=94PO2-TL4Vs" target="_new">A Visit to the "Cloud"</a> <br />
-        <a href="https://l.uvarc.io/yff" target="_new">Cloud Foundations</a> <br />
+        <img src="./images/book.png" /> <a href="https://www.youtube.com/watch?v=94PO2-TL4Vs" target="_new">A Visit to the "Cloud"</a> <br />
+        <img src="./images/book.png" /> <a href="https://l.uvarc.io/yff" target="_new">Cloud Foundations</a> <br />
       </td>
     </tr>
     <tr>
@@ -36,8 +36,8 @@ nav_order: 2
       <td>8/25</td>
       <td>Getting Set Up</td>
       <td>
-        <a href="https://www.youtube.com/watch?v=FZR0rG3HKIk" target="_new">Virtualization</a> <br />
-        <a href="https://en.wikipedia.org/wiki/Hypervisor" target="_new">Hypervisors</a> <br />
+        <img src="./images/book.png" /> <a href="https://www.youtube.com/watch?v=FZR0rG3HKIk" target="_new">Virtualization</a> <br />
+        <img src="./images/video.png" /> <a href="https://en.wikipedia.org/wiki/Hypervisor" target="_new">Hypervisors</a> <br />
       </td>
     </tr>
     <tr>
