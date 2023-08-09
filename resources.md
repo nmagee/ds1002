@@ -18,7 +18,7 @@ Our textbooks are available for free through O'Reilly Media. You'll need to crea
 
 ## Online Resources
 
-- GitHub Account: If you do not already have an account with GitHub, create one. [Sign into GitHub](https://github.com/).
-- Google Colab: If you do not already have a free Google/Gmail account, create one. [Sign into Colab](https://colab.research.google.com/).
+- **GitHub Account**: If you do not already have an account with GitHub, create one. [Sign into GitHub](https://github.com/).
+- **Google Colab**: If you do not already have a free Google or Gmail account, create one. [Sign into Colab](https://colab.research.google.com/).
 
 
