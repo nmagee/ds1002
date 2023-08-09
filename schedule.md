@@ -51,6 +51,7 @@ nav_order: 2
       <td>8/28 - 8/30</td>
       <td>Git & GitHub: Source Control Management</td>
       <td rowspan=2>
+        <img src="./images/book.png" /> <a href="https://medium.com/swlh/an-introduction-to-git-and-github-22ecb4cb1256" target="_new">Why & How - Git & GitHub</a> <br />
         <img src="./images/lab.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/assignments/333001" target="_new">Homework - GitHub Account</a> <br />
         <img src="./images/lab.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/assignments/333000" target="_new">Homework - Git Basics Foundation Course</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
