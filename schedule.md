@@ -8,6 +8,7 @@ nav_order: 2
 
 <style>
   td a { color:white;}
+  .noclass { font-weight:bold;color:#5fff00;}
 </style>
 
 <table>
@@ -58,12 +59,12 @@ nav_order: 2
     <tr>
       <td></td>
       <td>9/01</td>
-      <td style="color:green;">No Class</td>
+      <td class="noclass">No Class</td>
     </tr>
     <tr>
       <td>03</td>
       <td>9/04</td>
-      <td style="color:green;">No Class - Labor Day</td>
+      <td class="noclass">No Class - Labor Day</td>
       <td></td>
     </tr>
     <tr>
@@ -188,12 +189,12 @@ nav_order: 2
     <tr>
       <td></td>
       <td>11/22 - 11/26</td>
-      <td colspan=2 style="color:green;">No Class - Thanksgiving Break</td>
+      <td colspan=2 class="noclass">No Class - Thanksgiving Break</td>
     </tr>
     <tr>
       <td>15</td>
       <td>11/27 - 12/1</td>
-      <td style="color:green;">No In-Person Class - Online Assignments</td>
+      <td class="noclass">No In-Person Class - Online Assignments</td>
       <td>
         <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
