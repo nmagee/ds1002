@@ -17,7 +17,7 @@ nav_order: 2
       <th style="text-align:left;">Week</th>
       <th style="text-align:left;">Date</th>
       <th style="text-align:left;">Topics</th>
-      <th style="text-align:left;width:40%;">Read / Watch / Do</th>
+      <th style="text-align:left;width:50%;">Read / Watch / Do</th>
     </tr>
   </thead>
   <tbody>
