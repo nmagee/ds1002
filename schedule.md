@@ -4,9 +4,10 @@ layout: default
 nav_order: 2
 ---
 
-| Week  | Dates   | Topic |
-|:------|:--------|:------|
-| 1     | Aug 23  | Introduction    |
+| Week  | Dates   | Topic | Readings |
+|:------|:--------|:------|:---------|
+| 1     | Aug 23  | Introduction    | - Reading 1 
+                                      - Reading 2
 |       | Aug 25  | Getting Set Up  |
 | 2     | Aug 28  | Git             |
 |       | Aug 30  | GitHub          |
