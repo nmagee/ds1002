@@ -45,22 +45,21 @@ nav_order: 2
       <td>02</td>
       <td>8/28 - 8/30</td>
       <td>Git & GitHub: Source Control Management</td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>9/01</td>
-      <td>No Class</td>
-      <td>
+      <td rowspan=2>
+        <img src="./images/lab.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/assignments/333001" target="_new">Homework - GitHub Account</a> <br />
         <img src="./images/lab.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/assignments/333000" target="_new">Homework - Git Basics Foundation Course</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
     <tr>
+      <td></td>
+      <td>9/01</td>
+      <td style="background-color:#ccc;">No Class</td>
+    </tr>
+    <tr>
       <td>03</td>
       <td>9/04</td>
-      <td>No Class - Labor Day</td>
+      <td style="background-color:#ccc;">No Class - Labor Day</td>
       <td></td>
     </tr>
     <tr>
@@ -68,6 +67,7 @@ nav_order: 2
       <td>9/06 - 9/08</td>
       <td>Data types / Formats / Schemas</td>
       <td>
+        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch03.html#data_types" target="_new">[PN] Data Types</a> <br />
         <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
@@ -77,8 +77,8 @@ nav_order: 2
       <td>9/11 - 9/15</td>
       <td>Starting with Python</td>
       <td>
-        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch01.html" target="_new">PDA - Chapter 1: Preliminaries</a> <br />
-        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch01.html" target="_new">PN - Chapter 1: Introduction to Python</a> <br />
+        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch01.html" target="_new">[PDA] Chapter 1: Preliminaries</a> <br />
+        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch01.html" target="_new">[PN] Chapter 1: Introduction to Python</a> <br />
         <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
@@ -88,7 +88,7 @@ nav_order: 2
       <td>9/18 - 9/22</td>
       <td>More with Python / NumPy</td>
       <td>
-        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch04.html" target="_new">PDA - Chapter 4: NumPy Basics</a> <br />
+        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch04.html" target="_new">[PDA] Chapter 4: NumPy Basics</a> <br />
         <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
@@ -98,7 +98,7 @@ nav_order: 2
       <td>9/25 - 9/29</td>
       <td>NumPy / Pandas</td>
       <td>
-        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch05.html" target="_new">PDA - Chapter 5: Getting Started with pandas</a> <br />
+        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch05.html" target="_new">[PDA] Chapter 5: Getting Started with pandas</a> <br />
         <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
@@ -184,13 +184,13 @@ nav_order: 2
     <tr>
       <td></td>
       <td>11/22 - 11/26</td>
-      <td>No Class - Thanksgiving</td>
+      <td style="background-color:#ccc;">No Class - Thanksgiving Break</td>
       <td></td>
     </tr>
     <tr>
       <td>15</td>
       <td>11/27 - 12/1</td>
-      <td>No Class - Online Assignments</td>
+      <td style="background-color:#ccc;">No In-Person Class - Online Assignments</td>
       <td>
         <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
