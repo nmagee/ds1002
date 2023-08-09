@@ -2,7 +2,7 @@
 title: Objectives
 layout: default
 parent: About
-nav_order: 2
+nav_order: 1
 ---
 
 # Objectives
@@ -48,9 +48,9 @@ nav_order: 2
 - Know what vectorized functions and methods are.
 
 *Confidently write a class and call its methods*
-Understand role of classes in organizing code.
-Understand how classes group together variables as attributes and functions as methods into encapsulated components.
-Understand how classes can inherit the variables and methods of other classes.
+- Understand role of classes in organizing code.
+- Understand how classes group together variables as attributes and functions as methods into encapsulated components.
+- Understand how classes can inherit the variables and methods of other classes.
 
 *Use packages to augment existing data structures*
 - In Python, NumPy and Pandas essentials (e.g. simple queries and small ML computation)

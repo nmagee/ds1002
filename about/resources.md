@@ -2,7 +2,7 @@
 title: Resources
 layout: default
 parent: About
-nav_order: 3
+nav_order: 2
 ---
 
 # Resources
