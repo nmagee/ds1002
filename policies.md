@@ -53,3 +53,11 @@ As your professors, know that we care about you and your well-being and stand re
 There are also other University of Virginia resources available. As noted above, the Student Health Center offers Counseling and Psychological Services (CAPS) for its students. Call 434-243-5150 (or 434-972-7004 for after hours and weekend crisis assistance) to get started and schedule an appointment. If you prefer to speak anonymously and confidentially over the phone, call [Madison House's HELP Line](http://www.helplineuva.com/) at any hour of any day: 434-295-8255.
 
 If you or someone you know is struggling with gender, sexual, or domestic violence, there are many community and University of Virginia resources available. The Office of the Dean of Students, Sexual Assault Resource Agency (SARA), Shelter for Help in Emergency (SHE), and UVA Women's Center are ready and eager to help. Contact the Director of Sexual and Domestic Violence Services at 434-982-2774.
+
+## Using ChatGPT and other LLMs
+
+I have no prohibition on you using ChatGPT or other LLMs to provide you with longer explanations of concepts, or to tutor you, or to quiz you and test your learning. I would actually encourage all of that. 
+
+ChatGPT can provide you detailed answers that are quick and fairly comprehensive. However, at this point in learning two new languages and the basic techniques for programming, you are going to be unable to determine when ChatGPT is incorrect or giving only part of a correct answer. This means your understanding  of the topic is on the losing end of that equation. Assessments in this course are closed to outside material and resources such as LLMs.
+
+So learn and grapple with the material, tutor and quiz yourself using LLMs, and use them as a study partner.
