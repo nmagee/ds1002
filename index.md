@@ -4,6 +4,11 @@ layout: home
 nav_order: 1
 ---
 
+{: .warning }
+> DRAFT
+>
+> This syllabus is currently a work in progress. Please check back closer to the start of the semester for a more final version.
+
 # DS1002 Programming for Data Science
 
 This course exposes students to fundamental coding languages in data science. Python and R will be the primary focus of the course. Popular packages such as `pandas` and `tidyverse` will be covered in depth. Additionally, project management skills such as Git and Github will be covered.
@@ -14,24 +19,21 @@ For students somewhat new to programming of any kind, this should be a gentle in
 
 ### Class Meetings
 
-Times: Monday / Wednesday / Friday, 10:00 AM to 10:50 AM
-
-Location: [Ridley Hall G004](https://atlas.fm.virginia.edu/portal/apps/webappviewer/index.html?id=c54aefa568904e018601a0447eb722bf&marker=-78.50937123954239%2C38.03478223365926%2C%2C%2C%2C&markertemplate=%7B%22title%22%3A%22Ridley%20Hall%20%22%2C%22longitude%22%3A-78.50937123954239%2C%22latitude%22%3A38.03478223365926%2C%22isIncludeShareUrl%22%3Atrue%7D&level=18)
-
-Dates: August 23, 2023 — December 4, 2023
+- Times: Monday / Wednesday / Friday, 10:00 AM to 10:50 AM
+- Location: [Ridley Hall G004](https://atlas.fm.virginia.edu/portal/apps/webappviewer/index.html?id=c54aefa568904e018601a0447eb722bf&marker=-78.50937123954239%2C38.03478223365926%2C%2C%2C%2C&markertemplate=%7B%22title%22%3A%22Ridley%20Hall%20%22%2C%22longitude%22%3A-78.50937123954239%2C%22latitude%22%3A38.03478223365926%2C%22isIncludeShareUrl%22%3Atrue%7D&level=18)
+- Dates: August 23, 2023 — December 4, 2023
 
 ### Instructor
 
-Name: Neal Magee
-
-Email: nem2p@virginia.edu 
+- Name: Neal Magee
+- Email: nem2p@virginia.edu 
+- Office: 163a Elson
 
 ### Teaching Assistant
 
-Name: 
-
-Email: 
+- Name: 
+- Email: 
 
 ### Office Hours
-Days and Times: TBD
-Location: Zoom
+- Days and Times: TBD
+- Location: Zoom

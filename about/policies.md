@@ -3,6 +3,7 @@ title: Policies
 layout: default
 parent: About
 nav_order: 4
+has_toc: true
 ---
 
 # Policies
@@ -55,7 +56,7 @@ If you or someone you know is struggling with gender, sexual, or domestic violen
 
 ## Using ChatGPT and other LLMs
 
-I have no prohibition on you using ChatGPT or other LLMs to provide you with longer explanations of concepts, or to tutor you, or to quiz you and test your learning. I would actually encourage all of that. 
+I have no prohibition on you using ChatGPT or other LLMs to provide you with longer explanations of concepts, to tutor you, or to quiz you and test your learning. I would actually encourage all of that. 
 
 ChatGPT can provide you detailed answers that are quick and fairly comprehensive. However, at this point in learning two new languages and the basic techniques for programming, **you are not going to be able to determine when ChatGPT is incorrect or giving only part of a correct answer**. This means your understanding  of the topic is on the losing end of that equation. **Assessments in this course are closed to outside material and resources such as LLMs.**
 
