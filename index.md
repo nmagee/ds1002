@@ -26,14 +26,12 @@ For students somewhat new to programming of any kind, this should be a gentle in
 ### Instructor
 
 - Name: Neal Magee
-- Email: nem2p@virginia.edu 
+- Email: [nem2p@virginia.edu](mailto:nem2p@virginia.edu)
 - Office: 163a Elson
+- Office Hours: Wednesdays 1:00 PM to 3:00 PM. Other times by appointment.
 
 ### Teaching Assistant
 
-- Name: 
-- Email: 
-
-### Office Hours
-- Days and Times: TBD
-- Location: Zoom
+- Name: Miles Zhou
+- Email: [uar6nw@virginia.edu](mailto:uar6nw@virginia.edu)
+- Office Hours: TBD
