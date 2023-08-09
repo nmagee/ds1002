@@ -8,7 +8,7 @@ nav_order: 2
 
 <style>
   /* td a { color:white;} */
-  .noclass { font-weight:bold;color:#5fff00;}
+  .noclass { font-weight:800;color:black;}
 </style>
 
 <table>
