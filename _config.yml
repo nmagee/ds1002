@@ -9,3 +9,7 @@ nav_external_links:
   - title: Canvas for DS1002
     url: https://canvas.its.virginia.edu/courses/78571
 
+callouts:
+  warning:
+    title: Warning
+    color: red
