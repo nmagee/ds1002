@@ -43,7 +43,7 @@ nav_order: 2
       <td>Getting Set Up</td>
       <td>
         <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/book.png" /> <a href="" target="_new">Video</a> <br />
+        <img src="./images/video.png" /> <a href="" target="_new">Video</a> <br />
       </td>
     </tr>
     <tr>
