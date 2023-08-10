@@ -21,15 +21,3 @@ Our textbooks are available for free through O'Reilly Media. You'll need to crea
 
 - **GitHub Account**: If you do not already have an account with GitHub, create one. [Sign into GitHub](https://github.com/).
 - **Google Colab**: If you do not already have a free Google or Gmail account, create one. [Sign into Colab](https://colab.research.google.com/).
-
-
-## GitHub Repository
-
-All of the course materials are available in the GitHub repository for this course. You can download the repository as a zip file or clone it using Git.
-
-    git clone https://github.com/nmagee/ds1002.git
-    git add .
-    git commit -m "Testing the code block"
-    git push origin main
-
-Commit regularly.
