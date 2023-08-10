@@ -4,6 +4,7 @@ theme: just-the-docs
 color_scheme: light
 
 url: https://nmagee.github.io/ds1002/
+favicon_ico: "https://github.githubassets.com/favicons/favicon.svg"
 
 nav_external_links:
   - title: Canvas for DS1002

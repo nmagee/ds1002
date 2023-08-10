@@ -32,5 +32,4 @@ All of the course materials are available in the GitHub repository for this cour
     git commit -m "Testing the code block"
     git push origin main
 
-
-
+Commit regularly.
