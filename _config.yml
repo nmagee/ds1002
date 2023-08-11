@@ -27,7 +27,7 @@ callouts:
   warning:
     color: red
 
-ga-tracking: G-GWYLT2MS9Z
+ga-tracking: "G-GWYLT2MS9Z"
 
 kramdown:
   syntax_highlighter_opts:
