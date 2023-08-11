@@ -8,7 +8,7 @@ last_modified_date: 2021-08-10 14:36:00 -0400
 {: .warning }
 > DRAFT
 >
-> This syllabus is currently a work in progress. Please check back closer to the start of the semester for a more final version.
+> This syllabus is a work in progress. Please check back closer to the start of the semester (8/22/2023) for a final version.
 
 # DS1002 Programming for Data Science
 

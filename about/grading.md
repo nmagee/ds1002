@@ -6,13 +6,22 @@ nav_order: 3
 last_modified_date: 2021-08-10 14:36:00 -0400
 ---
 
-# Assessments & Grading
+# Grading
 
-Grading is by the usual ten-point 90-93 (A-), 94-97 (A), 98-100 (A+), etc. scale.
+## Assessments
+
+Grading is by a ten-point scale:
+
+> 93=A / 90=A- / 87=B+ / 83=B / 80=B- / 77=C+ / 73=C / 70=C- / 67=D+ / 63=D / 60=D- / below=F.
 
 | Assessment | Weight |
 |:-----------|:-------|
-| Weekly homework   | 40%    |
-| Weekly quizzes    | 60%    |
+| **Class exercises** - In addition to the assigned material in preparation for lectures, students are expected to complete individual or group exercises related to the concepts taught in class. Beyond reinforcing foundational knowledge, these activities involve creative or practical thinking through (1) peer instruction/problem solving (e.g., specifying and implementing filters) and (2) strategic problem solving (e.g., designing multi-stage systems). These exercises can only be completed during class.  | 30%    |
+| **Weekly homework** - Will consist of hands-on, practical material that implements the week's programming concepts. These are to be completed out of class, before 11:59pm Friday of the week they are assigned. These are not graded for correctness; only for completion. Weekly homework can be completed individually or in groups. | 30%    |
+| **Weekly quizzes** - At the end of most weeks, students answer a brief set of questions about the material covered in the week's lectures, exercises, and associated readings. These are to be completed out of class, before 11:59pm Friday of the week they are assigned. | 40%    |
 
 There will be no mid-term or final exams in this course.
+
+## Late Policy
+
+Late assignments are not graded unless arrangements prior to the deadline are made with the instructor. 

@@ -16,7 +16,11 @@ last_modified_date: 2021-08-10 14:36:00 -0400
 
 ## University of Virginia Honor System
 
-All work should be pledged in the spirit of the Honor System at the University of Virginia. The instructor will indicate which assignments and activities are to be done individually and which permit collaboration. The following pledge should be written out at the end of all quizzes, examinations, individual assignments, and papers: "I pledge that I have neither given nor received help on this examination (quiz, assignment, etc.)". The pledge must be signed by the student. For more information, visit [www.virginia.edu/honor](https://www.virginia.edu/honor).
+This course is governed by the UVA honor code policy. If you are unfamiliar with this policy or
+have questions, please contact me. In particular, you are expected to do your own work and not to
+provide assistance to others on individual activities. Plagiarism or copying code or solutions, even with
+attribution, is considered cheating. Course materials should not be shared or distributed outside this
+class. For more information, visit [www.virginia.edu/honor](https://www.virginia.edu/honor).
 
 ## SDAC and Other Special Accommodations
 
