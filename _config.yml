@@ -4,6 +4,7 @@ theme: just-the-docs
 color_scheme: light
 
 url: https://nmagee.github.io/ds1002/
+heading_anchors: true
 
 nav_external_links:
   - title: Canvas for DS1002
@@ -26,8 +27,6 @@ callouts:
     color: purple
   warning:
     color: red
-
-ga-tracking: "G-GWYLT2MS9Z"
 
 kramdown:
   syntax_highlighter_opts:
