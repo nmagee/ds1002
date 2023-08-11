@@ -52,8 +52,8 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>Git & GitHub: Source Control Management</td>
       <td rowspan=2>
         <img src="./images/book.png" /> <a href="https://medium.com/swlh/an-introduction-to-git-and-github-22ecb4cb1256" target="_new">Why & How - Git & GitHub</a> <br />
-        <img src="./images/lab.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/assignments/333001" target="_new">Homework - GitHub Account</a> <br />
-        <img src="./images/lab.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/assignments/333000" target="_new">Homework - Git Basics Foundation Course</a> <br />
+        <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/assignments/333001" target="_new">Homework - GitHub Account</a> <br />
+        <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/assignments/333000" target="_new">Homework - Git Basics Foundation Course</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
@@ -73,7 +73,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>Data types / Formats / Schemas</td>
       <td>
         <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch03.html#data_types" target="_new">[PN] Data Types</a> <br />
-        <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
@@ -84,7 +84,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>
         <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch01.html" target="_new">[PDA] Chapter 1: Preliminaries</a> <br />
         <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch01.html" target="_new">[PN] Chapter 1: Introduction to Python</a> <br />
-        <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
@@ -94,7 +94,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>More with Python / NumPy</td>
       <td>
         <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch04.html" target="_new">[PDA] Chapter 4: NumPy Basics</a> <br />
-        <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
@@ -104,7 +104,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>NumPy / Pandas</td>
       <td>
         <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch05.html" target="_new">[PDA] Chapter 5: Getting Started with pandas</a> <br />
-        <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
@@ -119,7 +119,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>10/04 - 10/06</td>
       <td>Data types / Casting / Control Structures</td>
       <td>
-        <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
@@ -128,7 +128,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>10/09 - 10/13</td>
       <td>Control structures / Iterating / Functions</td>
       <td>
-        <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
@@ -137,7 +137,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>10/16 - 10/20</td>
       <td>Lists / Dictionaries</td>
       <td>
-        <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
@@ -146,7 +146,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>10/23 - 10/27</td>
       <td>Recursion</td>
       <td>
-        <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
@@ -155,7 +155,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>10/30 - 11/3</td>
       <td>Exception Handling</td>
       <td>
-        <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
@@ -164,7 +164,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>11/6 - 11/10</td>
       <td>Introduction to R</td>
       <td>
-        <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
@@ -173,7 +173,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>11/13 - 11/17</td>
       <td>More with R</td>
       <td>
-        <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
@@ -182,7 +182,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>11/20</td>
       <td>Working with R and data</td>
       <td>
-        <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
@@ -196,7 +196,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>11/27 - 12/1</td>
       <td class="noclass">No In-Person Class - Online Assignments</td>
       <td>
-        <img src="./images/lab.png" /> <a href="" target="_new">Homework</a> <br />
+        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
     </tr>
