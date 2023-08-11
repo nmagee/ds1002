@@ -27,3 +27,12 @@ Our textbooks are available for free through O'Reilly Media. You'll need to crea
 
 - **GitHub Account**: If you do not already have an account with GitHub, create one. [Sign into GitHub](https://github.com/).
 - **Google Colab**: If you do not already have a free Google or Gmail account, create one. [Sign into Colab](https://colab.research.google.com/).
+
+## Reference Materials
+
+- [Git / GitHub Reference Cheatsheet](https://canvas.its.virginia.edu/courses/78571/files?preview=2505213)
+- [Jupyter Notebook Cheatsheet](https://canvas.its.virginia.edu/courses/78571/files?preview=2505502)
+- [Pandas Cheatsheet](https://canvas.its.virginia.edu/courses/78571/files?preview=2505505)
+- [NumPy Cheatsheet](https://canvas.its.virginia.edu/courses/78571/files?preview=2505503)
+- [R Cheatsheet](https://images.datacamp.com/image/upload/v1654763044/Marketing/Blog/R_Cheat_Sheet.pdf)
+- [R text data Cheatsheet](https://images.datacamp.com/image/upload/v1671098754/Marketing/Blog/Working_With_Text_Data_in_R.pdf)
