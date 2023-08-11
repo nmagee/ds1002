@@ -111,13 +111,13 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td>07</td>
       <td>10/02</td>
-      <td>No Class - Reading Days</td>
+      <td class="noclass">No Class - Reading Days</td>
       <td> </td>
     </tr>
     <tr>
       <td></td>
       <td>10/04 - 10/06</td>
-      <td>Data types / Casting / Control Structures</td>
+      <td>Control Structures / Iterating</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
@@ -126,7 +126,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td>08</td>
       <td>10/09 - 10/13</td>
-      <td>Control structures / Iterating / Functions</td>
+      <td>Functions & Classes</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
