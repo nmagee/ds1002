@@ -7,7 +7,11 @@ last_modified_date: 2021-08-10 14:36:00 -0400
 ---
 
 # Policies
+{:.no_toc}
 
+{: .no_toc .text-delta }
+
+1. TOC
 {:toc}
 
 ## University of Virginia Honor System
@@ -56,7 +60,7 @@ There are also other University of Virginia resources available. As noted above,
 
 If you or someone you know is struggling with gender, sexual, or domestic violence, there are many community and University of Virginia resources available. The Office of the Dean of Students, Sexual Assault Resource Agency (SARA), Shelter for Help in Emergency (SHE), and UVA Women's Center are ready and eager to help. Contact the Director of Sexual and Domestic Violence Services at 434-982-2774.
 
-## Using ChatGPT and other LLMs
+## Using ChatGPT and other Generative-AI
 
 I have no prohibition on you using ChatGPT or other LLMs to provide you with longer explanations of concepts, to tutor you, or to quiz you and test your learning. I would actually encourage all of that. 
 

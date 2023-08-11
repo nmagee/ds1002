@@ -7,6 +7,12 @@ last_modified_date: 2021-08-10 09:37:00 -0400
 ---
 
 # Resources
+{:.no_toc}
+
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Textbooks
 
