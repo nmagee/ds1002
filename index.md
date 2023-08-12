@@ -14,7 +14,7 @@ last_modified_date: 2021-08-10 14:36:00 -0400
 
 **University of Virginia School of Data Science**
 
-<img src="/images/4-1-model.png" alt="UVA School of Data Science | 4+1 Model" style="width:30%;margin-left:1rem;margin-bottom:1rem;" align="right" />
+<img src="./images/4-1-model.png" alt="UVA School of Data Science | 4+1 Model" style="width:30%;margin-left:1rem;margin-bottom:1rem;" align="right" />
 
 This course exposes students to fundamental coding languages in data science. Python and R will be the primary focus of the course. Popular packages such as `pandas` and `tidyverse` will be covered as well as how to write modular, reusable code. Additionally, software management skills such as Git and Github will be covered.
 
