@@ -16,8 +16,8 @@ Grading is by a ten-point scale:
 
 | Assessment | Weight |
 |:-----------|:-------|
-| **Class exercises** - In addition to the assigned material in preparation for lectures, students are expected to complete individual or group exercises related to the concepts taught in class. Beyond reinforcing foundational knowledge, these activities involve creative or practical thinking through (1) peer instruction/problem solving (e.g., specifying and implementing filters) and (2) strategic problem solving (e.g., designing multi-stage systems). These exercises can only be completed during class.  | 30%    |
-| **Weekly homework** - Will consist of hands-on, practical material that implements the week's programming concepts. These are to be completed out of class, before 11:59pm Friday of the week they are assigned. These are not graded for correctness; only for completion. Weekly homework can be completed individually or in groups. | 30%    |
+| **Class exercises / Labs** - In addition to the assigned material in preparation for lectures, students are expected to complete individual or group exercises related to the concepts taught in class. Beyond reinforcing foundational knowledge, these activities involve creative or practical thinking through (1) peer instruction/problem solving (e.g., specifying and implementing filters) and (2) strategic problem solving (e.g., designing multi-stage systems). These exercises can only be completed during class.  | 20%    |
+| **Weekly homework** - Will consist of hands-on, practical material that implements the week's programming concepts. These are to be completed out of class, before 11:59pm Friday of the week they are assigned. These are not graded for correctness; only for completion. Weekly homework can be completed individually or in groups. | 40%    |
 | **Weekly quizzes** - At the end of most weeks, students answer a brief set of questions about the material covered in the week's lectures, exercises, and associated readings. These are to be completed out of class, before 11:59pm Friday of the week they are assigned. | 40%    |
 
 There will be no mid-term or final exams in this course.
