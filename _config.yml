@@ -5,7 +5,6 @@ color_scheme: light
 
 url: https://nmagee.github.io/ds1002/
 heading_anchors: true
-logo: "./images/sds-monogram-logo-color-screen-600.png"
 
 nav_external_links:
   - title: Canvas for DS1002
