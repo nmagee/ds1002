@@ -18,7 +18,7 @@ last_modified_date: 2021-08-10 14:36:00 -0400
 
 This course exposes students to fundamental coding languages in data science. Python and R will be the primary focus of the course. Popular packages such as `pandas` and `tidyverse` will be covered as well as how to write modular, reusable code. Additionally, software management skills such as Git and Github will be covered.
 
-For students new to programming of any kind, this will be a introduction to working with the basic operations and data structures of two languages common to Data Science. We will also discuss and practice good habits around software development and management. As you will learn, there are several other pieces "around" the coding process to learn, such as setting up and working within different environments, source control using tools like `git`, and working with various types of data. These will be essential to our work in Python and R, and will undoubtedly serve you will in future courses.
+For students new to programming of any kind, this will be an introduction to working with the basic operations and data structures of two languages common to Data Science. We will also discuss and practice good habits around software development and management. As you will learn, there are several other pieces "around" the coding process to learn, such as setting up and working within different environments, source control using tools like `git`, and working with various types of data. These will be essential to our work in Python and R, and will undoubtedly serve you will in future courses.
 
 Successful students will be able to approach fundamental data science tasks programmatically including data capture, cleaning, manipulation, and visualization with confidence and efficiency.
 
