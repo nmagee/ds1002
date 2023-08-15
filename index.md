@@ -2,7 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
-last_modified_date: 2021-08-10 14:36:00 -0400
+last_modified_date: 2021-08-15 16:05:00 -0400
 ---
 
 {: .warning }
@@ -35,7 +35,7 @@ Successful students will be able to approach fundamental data science tasks prog
 - Name: Neal Magee
 - Email: [nem2p@virginia.edu](mailto:nem2p@virginia.edu)
 - Office: Elson 163A
-- Office Hours: Wednesdays 1:00 PM to 3:00 PM. Other times by appointment.
+- Office Hours: Wednesdays 1:00 PM to 2:30 PM. Other times by appointment.
 
 ### Teaching Assistant
 
