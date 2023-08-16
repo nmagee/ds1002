@@ -3,7 +3,7 @@ title: Resources
 layout: default
 parent: About
 nav_order: 2
-last_modified_date: 2021-08-10 09:37:00 -0400
+last_modified_date: 2021-08-16 10:37:00 -0400
 ---
 
 # Resources
@@ -25,8 +25,8 @@ Our textbooks are available for free through O'Reilly Media. You'll need to crea
 
 ## Online Resources
 
-- **GitHub Account**: If you do not already have an account with GitHub, create one. [Sign into GitHub](https://github.com/).
-- **Google Colab**: If you do not already have a free Google or Gmail account, create one. [Sign into Colab](https://colab.research.google.com/).
+- [**GitHub**](https://github.com/): If you do not already have an account with GitHub, create one. Bonus! Sign up for the [GitHub Student Developer Pack](https://education.github.com/pack)
+- [**Google Colab**](https://colab.research.google.com/): If you do not already have a free Google or Gmail account, create one.
 
 ## Reference Materials
 
