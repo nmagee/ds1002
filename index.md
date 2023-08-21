@@ -1,8 +1,8 @@
 ---
-title: Home
+title: DS1002 Programming for Data Science | University of Virginia School of Data Science
 layout: home
 nav_order: 1
-last_modified_date: 2021-08-15 16:05:00 -0400
+last_modified_date: 2021-08-21 16:05:00 -0400
 ---
 
 {: .warning }
