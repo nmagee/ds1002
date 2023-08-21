@@ -72,7 +72,8 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>9/06 - 9/08</td>
       <td>Introduction to Python</td>
       <td>
-        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch03.html#data_types" target="_new">[PN] Data Types</a> <br />
+        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch01.html" target="_new">[PDA] Chapter 1: Preliminaries</a> <br />
+        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch01.html" target="_new">[PN] Chapter 1: Introduction to Python</a> <br />
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
@@ -82,8 +83,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>9/11 - 9/15</td>
       <td>More Python Basics</td>
       <td>
-        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch01.html" target="_new">[PDA] Chapter 1: Preliminaries</a> <br />
-        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch01.html" target="_new">[PN] Chapter 1: Introduction to Python</a> <br />
+        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch03.html#data_types" target="_new">[PN] Data Types</a> <br />
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
@@ -194,7 +194,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td>15</td>
       <td>11/27 - 12/1</td>
-      <td class="noclass">No In-Person Class - Online Assignments</td>
+      <td class="noclass">No In-Person Class - Online<br /><span style="font-weight:normal;">R: Interacting with Data</span></td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
