@@ -21,7 +21,7 @@ Our textbooks are available for free through O'Reilly Media. You'll need to [cre
 - **[PDA] Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, 3rd ed.** McKinney. O'Reilly Media 2022 / ISBN: 978-1-4919-5766-0 [https://learning.oreilly.com/library/view/python-for-data/9781098104023/](https://learning.oreilly.com/library/view/python-for-data/9781098104023/)
 - **[PN] Python in a Nutshell: A Desktop Quick Reference, 4th ed.** Martelli, Ravenscroft, et al. O'Reilly Media 2023 / ISBN: 978-1-098-11355-1 [https://learning.oreilly.com/library/view/python-in-a/9781098113544/](https://learning.oreilly.com/library/view/python-in-a/9781098113544/)
 - **[RDS] R for Data Science: Import, Tidy, Transform, Visualize, and Model Data, 2nd ed.** Wickham, Cetinkaya-Rundel, and Grolemund. O'Reilly Media 2023 / ISBN: 978-1-492-09740-2 [https://learning.oreilly.com/library/view/r-for-data/9781492097396/](https://learning.oreilly.com/library/view/r-for-data/9781492097396/)
-- **[DSCL] Data Science at the Command Line.** Jannsens. O'Reilly Media 2021 / ISBN: 978-1-492-087915 / [https://learning.oreilly.com/library/view/data-science-at/9781492087908/](https://learning.oreilly.com/library/view/data-science-at/9781492087908/)
+- **[DSCL] Data Science at the Command Line, 2nd ed.** Jannsens. O'Reilly Media 2021 / ISBN: 978-1-492-087915 / [https://learning.oreilly.com/library/view/data-science-at/9781492087908/](https://learning.oreilly.com/library/view/data-science-at/9781492087908/)
 
 ## Online Resources
 
