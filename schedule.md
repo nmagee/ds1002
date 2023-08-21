@@ -27,7 +27,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td> </td>
       <td>Student Survey</td>
       <td>
-        <a href="" target="_new"><img src="./images/writing.png" /> <b>Take the Survey</b></a>
+        <a href="https://virginia.az1.qualtrics.com/jfe/form/SV_cYodaLzeQlC0Xvo" target="_new"><img src="./images/writing.png" /> <b>Take the Survey</b></a>
       </td>
     </tr>
     <tr>

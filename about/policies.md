@@ -70,4 +70,4 @@ I have no prohibition on you using ChatGPT or other LLMs to provide you with lon
 
 ChatGPT can provide you detailed answers that are quick and fairly comprehensive. However, at this point in learning two new languages and the basic techniques for programming, **you are not going to be able to determine when ChatGPT is incorrect or giving only part of a correct answer**. This means your understanding  of the topic is on the losing end of that equation. **Assessments in this course are closed to outside material and resources such as LLMs.**
 
-So learn and grapple with the material, tutor and quiz yourself using LLMs, and use them as a study partner.
+So learn and grapple with the material, tutor and quiz yourself using LLMs, and use them as a study partner. Do not use them to generate or revise answers on quizzes.

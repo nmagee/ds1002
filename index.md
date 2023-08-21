@@ -12,7 +12,7 @@ last_modified_date: 2021-08-15 16:05:00 -0400
 
 # DS1002 Programming for Data Science
 
-**University of Virginia School of Data Science**
+**University of Virginia School of Data Science**{: .fs-6 .fw-300 }
 
 <img src="./images/4-1-model.png" alt="UVA School of Data Science | 4+1 Model" style="width:30%;margin-left:1rem;margin-bottom:1rem;" align="right" />
 
