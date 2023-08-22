@@ -48,6 +48,10 @@ If you find yourself in need of additional support, please consider the followin
 - SDS Associate Dean for DEI, Siri Russell [ssr5v@virginia.edu](mailto:ssr5v@virginia.edu)
 - UVA Just Report It [justreportit.sites.virginia.edu](https://justreportit.sites.virginia.edu/)
 
+## Religious accommodations
+
+It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements. Students who wish to request academic accommodation for a religious observance should submit their request in writing directly to me as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at UVAEOCR@virginia.edu or 434-924-3200.
+
 ## Student Safety and Title IX
 
 The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. To that end, it is vital that you know two values that we and the University hold as critically important:
