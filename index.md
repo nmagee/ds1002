@@ -2,13 +2,8 @@
 title: Home
 layout: home
 nav_order: 1
-last_modified_date: 2021-08-21 16:05:00 -0400
+last_modified_date: 2021-08-22 16:05:00 -0400
 ---
-
-{: .warning }
-> DRAFT
->
-> This syllabus is a work in progress. Please check back closer to the start of the semester (8/22/2023) for a final version.
 
 # DS1002 Programming for Data Science
 
@@ -42,3 +37,5 @@ Successful students will be able to approach fundamental data science tasks prog
 - Name: Miles Zhou
 - Email: [uar6nw@virginia.edu](mailto:uar6nw@virginia.edu)
 - Office Hours: TBD
+
+This syllabus is subject to change without announcement.
