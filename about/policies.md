@@ -21,6 +21,8 @@ have questions, please contact me. In particular, you are expected to do your ow
 provide assistance to others on individual activities. Plagiarism or copying code or solutions (or using AI-based LLMs, etc.) even with attribution, is considered cheating. Course materials should not be shared or distributed outside this
 class. For more information, visit [www.virginia.edu/honor](https://www.virginia.edu/honor).
 
+All submissions associated with your computing ID is considered to be your work and is assumed to adhere to this policy.
+
 ## SDAC and Other Special Accommodations
 
 If you have been identified as a Student Disability Access Center (SDAC) student, please let the Center know you are taking this class. If you suspect you should be an SDAC student, please schedule an appointment with them for an evaluation. I happily and discretely provide the recommended accommodations for those students identified by the SDAC. Please contact your instructor one week before an exam so we can make appropriate accommodations. Website: [www.studenthealth.virginia.edu/sdac](https://www.studenthealth.virginia.edu/sdac).
