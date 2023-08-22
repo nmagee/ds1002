@@ -3,14 +3,14 @@ title: O'Reilly Access
 layout: default
 parent: About
 nav_exclude: true
-last_modified_date: 2021-08-21 09:37:00 -0400
+last_modified_date: 2021-08-22 09:37:00 -0400
 ---
 
 # Student Access for O'Reilly Texts
 
 Follow these instructions to set up your account:
 
-Go to [https://www.oreilly.com/library/view/temporary-access/](https://www.oreilly.com/library/view/temporary-access/).
+Go to <a href="https://www.oreilly.com/library/view/temporary-access/" target="_new">https://www.oreilly.com/library/view/temporary-access/</a>.
 
 You should see this dialog box:
 
