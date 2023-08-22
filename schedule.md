@@ -81,9 +81,10 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td>04</td>
       <td>9/11 - 9/15</td>
-      <td>More Python Basics</td>
+      <td>More NumPy</td>
       <td>
         <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch03.html#data_types" target="_new">[PN] Data Types</a> <br />
+        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch04.html" target="_new">[PDA] Chapter 4: NumPy Basics</a> <br />
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
@@ -91,9 +92,9 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td>05</td>
       <td>9/18 - 9/22</td>
-      <td>Python: NumPy</td>
+      <td>Python: Pandas</td>
       <td>
-        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch04.html" target="_new">[PDA] Chapter 4: NumPy Basics</a> <br />
+        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch05.html" target="_new">[PDA] Chapter 5: Getting Started with pandas</a> <br />
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
@@ -103,7 +104,6 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>9/25 - 9/29</td>
       <td>Python: Pandas</td>
       <td>
-        <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch05.html" target="_new">[PDA] Chapter 5: Getting Started with pandas</a> <br />
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
       </td>
@@ -126,7 +126,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td>08</td>
       <td>10/09 - 10/13</td>
-      <td>Python: Pandas</td>
+      <td>Python: Comprehensions & Comparisons</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
@@ -135,7 +135,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td>09</td>
       <td>10/16 - 10/20</td>
-      <td>Python: Comprehensions & Comparisons</td>
+      <td>Python: Functions</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
@@ -144,7 +144,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td>10</td>
       <td>10/23 - 10/27</td>
-      <td>Python: Functions</td>
+      <td>Python: Functions & Classes</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
@@ -153,7 +153,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td>11</td>
       <td>10/30 - 11/3</td>
-      <td>Python: Functions & Classes</td>
+      <td>Python: Recursion & Error Handling </td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
@@ -162,7 +162,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td>12</td>
       <td>11/6 - 11/10</td>
-      <td>Python: Recursion & Error Handling</td>
+      <td>Python: Review</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
@@ -171,7 +171,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td>13</td>
       <td>11/13 - 11/17</td>
-      <td>Python: Review</td>
+      <td>Introducing R</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
@@ -180,7 +180,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td>14</td>
       <td>11/20</td>
-      <td>Introducing R</td>
+      <td>More with R</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
