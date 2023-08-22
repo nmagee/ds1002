@@ -3,7 +3,7 @@ title: Policies
 layout: default
 parent: About
 nav_order: 4
-last_modified_date: 2021-08-10 14:36:00 -0400
+last_modified_date: 2021-08-22 14:36:00 -0400
 ---
 
 # Policies
@@ -18,8 +18,7 @@ last_modified_date: 2021-08-10 14:36:00 -0400
 
 This course is governed by the UVA honor code policy. If you are unfamiliar with this policy or
 have questions, please contact me. In particular, you are expected to do your own work and not to
-provide assistance to others on individual activities. Plagiarism or copying code or solutions, even with
-attribution, is considered cheating. Course materials should not be shared or distributed outside this
+provide assistance to others on individual activities. Plagiarism or copying code or solutions (or using AI-based LLMs, etc.) even with attribution, is considered cheating. Course materials should not be shared or distributed outside this
 class. For more information, visit [www.virginia.edu/honor](https://www.virginia.edu/honor).
 
 ## SDAC and Other Special Accommodations
@@ -46,8 +45,8 @@ As part of our shared effort to promote a classroom culture of inclusion, we wil
 
 If you find yourself in need of additional support, please consider the following resources:
 
-- SDS Associate Dean for DEI, Siri Russell ]ssr5v@virginia.edu](mailto:ssr5v@virginia.edu)
-- UVA Just Report It [justreportit.sites.virginia.edu/](https://justreportit.sites.virginia.edu/)
+- SDS Associate Dean for DEI, Siri Russell [ssr5v@virginia.edu](mailto:ssr5v@virginia.edu)
+- UVA Just Report It [justreportit.sites.virginia.edu](https://justreportit.sites.virginia.edu/)
 
 ## Student Safety and Title IX
 
