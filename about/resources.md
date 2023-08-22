@@ -32,11 +32,9 @@ Our textbooks are available for free through O'Reilly Media. You'll need to [cre
 
 Python Support Hours are an optional resource for students to attend for help in addition to professor or TA office hours. We will loosely follow the DS1002 course with each session focusing on some key concept(s) covered in the last two weeks. The format may change week to week, but the goal is to help students get more comfortable with the topics they're learning and offer support where needed. They will be focused on general topics rather than assignments, so students should still utilize professors and TAs for assignment specific questions.
 
-Location: Dell 1 (Open Space)
-
-Date/Time: 4:30-5:30pm bi-weekly Aug 30, Sep 13, Sep 27, Oct 11, Oct 25, Nov 8, Nov 29.
-
-Contact: Ali Rivera [ali.rivera@virginia.edu](mailto:ali.rivera@virginia.edu)
+- Location: Dell 1 (Open Space)
+- Date/Time: 4:30-5:30pm bi-weekly Aug 30, Sep 13, Sep 27, Oct 11, Oct 25, Nov 8, Nov 29.
+- Contact: Ali Rivera [ali.rivera@virginia.edu](mailto:ali.rivera@virginia.edu)
 
 ## Reference Materials
 
