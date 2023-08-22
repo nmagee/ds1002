@@ -70,7 +70,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td></td>
       <td>9/06 - 9/08</td>
-      <td>Introduction to Python</td>
+      <td>Python: Introduction</td>
       <td>
         <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch01.html" target="_new">[PDA] Chapter 1: Preliminaries</a> <br />
         <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch01.html" target="_new">[PN] Chapter 1: Introduction to Python</a> <br />
@@ -81,7 +81,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td>04</td>
       <td>9/11 - 9/15</td>
-      <td>More NumPy</td>
+      <td>Python: NumPy</td>
       <td>
         <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch03.html#data_types" target="_new">[PN] Data Types</a> <br />
         <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch04.html" target="_new">[PDA] Chapter 4: NumPy Basics</a> <br />
@@ -171,7 +171,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td>13</td>
       <td>11/13 - 11/17</td>
-      <td>Introducing R</td>
+      <td>R: Introduction</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
@@ -180,7 +180,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td>14</td>
       <td>11/20</td>
-      <td>More with R</td>
+      <td>R: Analyzing Data</td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
@@ -194,7 +194,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
     <tr>
       <td>15</td>
       <td>11/27 - 12/1</td>
-      <td class="noclass">No In-Person Class - Online<br /><span style="font-weight:normal;">More with R</span></td>
+      <td class="noclass">No In-Person Class - Online<br /><span style="font-weight:normal;">R: Analyzing Data</span></td>
       <td>
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
