@@ -36,6 +36,6 @@ Successful students will be able to approach fundamental data science tasks prog
 
 - Name: Miles Zhou
 - Email: [uar6nw@virginia.edu](mailto:uar6nw@virginia.edu)
-- Office Hours: TBD
+- Office Hours: 1:00-2:30pm Mondays in Dell 1, at the table near the video wall.
 
 This syllabus is subject to change without announcement.
