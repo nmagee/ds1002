@@ -9,4 +9,5 @@ _site/
 .bundle/
 vendor/
 Gemfile
-Gemfile*
+Gemfile.lock
+modules/
