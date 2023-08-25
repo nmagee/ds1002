@@ -51,7 +51,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>8/28 - 8/30</td>
       <td>Git & GitHub: Source Control Management</td>
       <td rowspan=2>
-        <img src="./images/book.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/files?preview=2755956" target="_new">Why & How - Git & GitHub</a> <br />
+        <img src="./images/book.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/files/2755956?module_item_id=844323" target="_new">Why & How - Git & GitHub</a> <br />
         <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/assignments/333001" target="_new">Homework - GitHub Account</a> <br />
         <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/assignments/333000" target="_new">Homework - Git Basics Foundation Course</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
