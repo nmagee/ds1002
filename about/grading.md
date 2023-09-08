@@ -16,7 +16,7 @@ Grading is by a ten-point scale:
 
 | Assessment | Weight |
 |:-----------|:-------|
-| **Weekly homework** - Homework is practice, and will consist of hands-on, practical material that implement the week's programming concepts. These are to be completed out of class, before 11:59pm Friday of the week they are assigned. Weekly homework must be completed individually. | 50%    |
+| **Weekly homework** - Homework is practice, and will consist of hands-on, practical material that implement the week's programming concepts. These are to be completed out of class, before 11:59pm Friday of the week they are assigned. Weekly homework must be completed individually or in groups. You will receive a graded response to your homework, but homework is counted as a completion grade for the course. | 50%    |
 | **Weekly quizzes** - At the end of most weeks, students will answer a brief set of questions about the material covered in the week's lectures, exercises, and associated readings. These are to be completed out of class, before 11:59pm the Sunday  after the week they are assigned. | 40%    |
 | **Labs** - In addition to the assigned material in preparation for lectures, students are expected to complete individual or group exercises related to the concepts taught in class. Beyond reinforcing foundational knowledge, these activities involve creative or practical thinking through (1) peer instruction/problem solving (e.g., specifying and implementing filters) and (2) strategic problem solving (e.g., designing multi-stage systems). These exercises can only be completed during class.  | 10%    |
 
