@@ -83,6 +83,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>9/11 - 9/15</td>
       <td>Python: NumPy</td>
       <td>
+        <img src="./images/book.png" /> <a href="https://docs.python.org/3/tutorial/datastructures.html" target="_new">Python Data Structures</a> <br />
         <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch03.html#data_types" target="_new">[PN] Chapter 3: Data Types</a> <br />
         <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch04.html" target="_new">[PDA] Chapter 4: NumPy Basics</a> <br />
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
