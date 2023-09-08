@@ -74,8 +74,8 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>
         <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch01.html" target="_new">[PDA] Chapter 1: Preliminaries</a> <br />
         <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch01.html" target="_new">[PN] Chapter 1: Introduction to Python</a> <br />
-        <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
-        <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
+        <img src="./images/homework.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/assignments/376091" target="_new">Homework</a> <br />
+        <img src="./images/writing.png" /> <a href="https://canvas.its.virginia.edu/courses/78571/quizzes/109097">Weekly Quiz</a> <br />
       </td>
     </tr>
     <tr>
