@@ -95,6 +95,7 @@ last_modified_date: 2021-08-10 09:37:00 -0400
       <td>9/18 - 9/22</td>
       <td>Python: Pandas</td>
       <td>
+        <img src="./images/video.png" /> <a href="https://www.youtube.com/watch?v=KHoEbRH46Zk" target="_new">NumPy vs. Pandas</a> <br />
         <img src="./images/book.png" /> <a href="https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch05.html" target="_new">[PDA] Chapter 5: Getting Started with pandas</a> <br />
         <img src="./images/homework.png" /> <a href="" target="_new">Homework</a> <br />
         <img src="./images/writing.png" /> <a href="">Weekly Quiz</a> <br />
