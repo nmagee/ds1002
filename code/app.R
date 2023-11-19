@@ -6,6 +6,5 @@ h <- hist(r, plot=F, breaks=c(seq(0,max(r)+1, .1)))
 
 # Plot the distribution using log scale on both axes, and use
 # blue points
-plot(h$counts, log="xy", pch=20, col="blue",
-	main="Log-normal distribution",
-	xlab="Value", ylab="Frequency")
+plot(h$counts, log = "xy", pch = 20, col = "blue",
+     main = "Log-normal distribution", xlab = "Value", ylab = "Frequency")
