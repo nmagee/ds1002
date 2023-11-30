@@ -10,7 +10,7 @@ runner_bib,runner_name,runner_age,runner_gender,finish_time
 9,Edita Britney,60,Female,1:38 PM
 10,Bastien Howley,27,Male,2:07 PM
 11,Mattheus Townsley,48,Male,12:12 PM
-12,Falito Balfre,19,Male,12:09 PM
+12,Falito Balfre,"19",Male,12:09 PM
 13,Ceil Boothebie,30,Female,12:48 PM
 14,Louis Stavers,24,Male,2:09 PM
 15,Henka Triggel,20,Female,1:20 PM
@@ -25,13 +25,13 @@ runner_bib,runner_name,runner_age,runner_gender,finish_time
 24,Jack Chelsom,60,Male,12:50 PM
 25,Gradeigh Cornish,19,Male,1:16 PM
 26,Saundra Llywarch,23,Male,1:50 PM
-27,Bennie Adami,25,Female,
+27,Bennie Adami,"25",Female,
 28,Kaylyn Uppett,14,Female,12:40 PM
 29,Agnella Hasnney,17,Female,1:36 PM
 30,Biddy Tartt,34,Female,12:19 PM
 31,Gavin Gainsborough,40,Bigender,1:12 PM
 32,Rosalia Glinde,25,Female,12:57 PM
-33,Ketti Foottit,55,Female,12:12 PM
+33,Ketti Foottit,"55",Female,12:12 PM
 34,Ainslee Holston,51,Female,
 35,Rianon Plenty,31,Female,1:01 PM
 36,Emilie Iggo,48,Female,12:02 PM
@@ -42,7 +42,7 @@ runner_bib,runner_name,runner_age,runner_gender,finish_time
 41,Dennison Byham,35,Male,12:46 PM
 42,Clywd Wolver,28,Male,1:05 PM
 43,Virgie Burkinshaw,37,Female,1:20 PM
-44,Kaia Striker,29,Female,1:19 PM
+44,Kaia Striker,"29",Female,1:19 PM
 45,Mason Beane,23,Male,1:27 PM
 46,Marthe Tremathack,56,Female,2:11 PM
 47,Britte Carbin,17,Agender,1:14 PM
