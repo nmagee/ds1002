@@ -39,13 +39,7 @@ For access to community mental health referrals, visit [www.studenthealth.virgin
 
 ## Classroom Environment
 
-The School of Data Science expects everyone to contribute to an inclusive and respectful classroom culture that reflects the School's commitment to being a space in which you can find a sense of shared community. You are expected to respectfully embrace the opportunity to engage, collaborate, and learn with/from a diverse team of classmates.
-
-Additionally, I will note that it is possible that, even though our course material is primarily scientific in nature, there may be covert biases in the material due to the lens with which it was written. I welcome feedback and suggestions to improve upon the inclusivity of the material. We are all responsible for ensuring that our actions/experience align with our stated values. Please consider yourselves to be my accountability partners in creating an inclusive environment that supports a range of perspectives, do not hesitate to reach out if you have concerns, ideas, or questions about your experience.
-
-If you find yourself in need of additional support, please consider the following resources:
-
-- UVA Just Report It [justreportit.sites.virginia.edu](https://justreportit.sites.virginia.edu/)
+The School of Data Science expects everyone to contribute to an engaged and respectful classroom culture that reflects the School’s commitment to being a space in which you can find a sense of shared community and interests. Students are expected to respectfully embrace the opportunity to engage, collaborate, and learn with/from a team of classmates.
 
 ## Religious Accommodations
 
