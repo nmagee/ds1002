@@ -37,20 +37,17 @@ For a list of online resources students may access independently, visit [www.stu
 
 For access to community mental health referrals, visit [www.studenthealth.virginia.edu/community-referrals](https://www.studenthealth.virginia.edu/community-referrals).
 
-## Diversity and Inclusion
+## Classroom Environment
 
-The School of Data Science expects everyone to contribute to an inclusive and respectful classroom culture that reflects the School's commitment to being a space in which you can find a sense of shared community. The diversity (referring to the multiple ways that we identify ourselves, including but not limited to race, color, national origin, language, sex, disability, age, sexual orientation, gender identity, religion, creed, ancestry, belief, veteran status, or genetic information) of our classroom is a strength. You are expected to respectfully embrace the opportunity to engage, collaborate, and learn with/from a diverse team of classmates.
+The School of Data Science expects everyone to contribute to an inclusive and respectful classroom culture that reflects the School's commitment to being a space in which you can find a sense of shared community. You are expected to respectfully embrace the opportunity to engage, collaborate, and learn with/from a diverse team of classmates.
 
-Additionally, I will note that it is possible that, even though our course material is primarily scientific in nature, there may be covert biases in the material due to the lens with which it was written. I welcome feedback and suggestions to improve upon the inclusivity of the material. We are all responsible for ensuring that our actions/experience align with our stated values. Please consider yourselves to be my accountability partners in creating an inclusive environment that supports a diversity of perspectives, do not hesitate to reach out if you have concerns, ideas, or questions about your experience.
-
-As part of our shared effort to promote a classroom culture of inclusion, we will each have the opportunity to indicate our preferred name and pronouns. I will do my best to refer to all students accordingly.
+Additionally, I will note that it is possible that, even though our course material is primarily scientific in nature, there may be covert biases in the material due to the lens with which it was written. I welcome feedback and suggestions to improve upon the inclusivity of the material. We are all responsible for ensuring that our actions/experience align with our stated values. Please consider yourselves to be my accountability partners in creating an inclusive environment that supports a range of perspectives, do not hesitate to reach out if you have concerns, ideas, or questions about your experience.
 
 If you find yourself in need of additional support, please consider the following resources:
 
-- SDS Associate Dean for DEI, Siri Russell [ssr5v@virginia.edu](mailto:ssr5v@virginia.edu)
 - UVA Just Report It [justreportit.sites.virginia.edu](https://justreportit.sites.virginia.edu/)
 
-## Religious accommodations
+## Religious Accommodations
 
 It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements. Students who wish to request academic accommodation for a religious observance should submit their request in writing directly to me as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at UVAEOCR@virginia.edu or 434-924-3200.
 
